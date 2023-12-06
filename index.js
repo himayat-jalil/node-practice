@@ -11,3 +11,5 @@ const os = require('os');
 console.log(os.userInfo());
 
 server.listen(5000);
+
+// listening on port 5000
